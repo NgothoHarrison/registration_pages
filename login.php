@@ -28,6 +28,7 @@
 			<a href="trial.php"> Forgot Password</a>
 			<a href="signup.php"> SignUp</a>
 		</div>
+		
 		<input type="submit" name="" value="Login">
 
 	
