@@ -17,11 +17,13 @@
 			<span>Username</span>
 			<i></i>
 		</div>
+		
 		<div class="inputBox">
 			<input type="password" name="Password" required>
 			<span>Password</span>
 			<i></i>
 		</div>
+		
 		<div class="links">
 			<a href="trial.php"> Forgot Password</a>
 			<a href="signup.php"> SignUp</a>
