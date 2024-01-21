@@ -6,6 +6,7 @@
 	<link rel="stylesheet" type="text/css" href="login.css">
 	<title>login</title>
 </head>
+	
 <body>
 <div class="box">
 	<form action="verify.php" method="post">
