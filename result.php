@@ -4,7 +4,7 @@ $Username = $_POST['Username'];
 $Email = $_POST['Email'];
 $Password = $_POST['Password'];
 
-// database connection
+// connection to database
 
 $conn = new mysqli('localhost', 'root', '', 'signup');
 if($conn->connect_error){
